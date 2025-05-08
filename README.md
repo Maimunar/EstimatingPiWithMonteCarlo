@@ -1,4 +1,4 @@
-# EstimatingPiWithMonteCarlo
+# Estimating Pi With Monte Carlo
 A research paper on using the Monte Carlo method to estimate Pi using Python and Jupyter notebook. 
 LaTeX used for equations and formulas.
 Project used to strengthen statistical knowledge and understand simulations.
